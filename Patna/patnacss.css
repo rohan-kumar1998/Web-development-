@@ -1,0 +1,53 @@
+#caro {
+  height: 550px;
+  width: auto;
+  overflow: hidden;
+}
+.carousel-control.left .glyphicon {
+    left: 0;
+    margin-left: 0;
+}
+#navibar{
+  margin-bottom:0px;
+}
+.navtex1{
+  color: white;
+  font-family: 'Oswald', sans-serif;
+}
+#mainpara{
+  margin-top:0px;
+  text-align:center;
+}
+.heading_1{
+  font-family: 'Questrial', sans-serif;
+  font-size:50px;
+}
+.bodybg{
+  background-color:rgb(247, 243, 202);
+}
+.roundborder{
+  width:300px;
+  height:300px;
+  border:10px  solid;
+  border-radius:100%;
+  border-thickness:10px;
+  margin-left:0px;
+  margin-top:15px;
+  margin-right:12px
+}
+.semibg{
+  background-color:rgb(216, 210, 151);
+  border-radius:10px;
+}
+.flleft{
+  float:left;
+}
+.paracont{
+  font-family: 'Fjord One', serif;
+  margin-top:5px;
+}
+.endpara{
+  text-align:center;
+  font-family: 'Suranna', serif;
+  font-size: 20px
+}
